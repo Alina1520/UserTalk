@@ -1,0 +1,1 @@
+export const removeBearerFromHeader = (token:string) =>(token ? token.replace('Bearer ',''):'')

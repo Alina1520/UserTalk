@@ -1,0 +1,2 @@
+export const GROUP_REPOSITORY = Symbol('GROUP_REPOSITORY')
+export const GROUPS_SERVICE = Symbol('GROUPS_SERVICE')
